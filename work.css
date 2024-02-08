@@ -1,0 +1,119 @@
+.button {
+    background: black;
+    color: beige;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 10px;
+}
+.dropdown {
+    position: relatve;
+    display: inline-block;
+}
+.hiddencontent {
+    display: none;
+    background: red;
+    color: beige;
+    z-index: 1;
+    min-width: 160px;
+    position: absolute;
+}
+nav {
+    background: rgb(80, 70, 70);
+}
+.hidden,.link {
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+    padding: 10px 16px;
+    display: inline-block;
+}
+.hidden {
+    display: block;
+}
+.link {
+    display: inline-block;
+}
+.link:hover, .hidden:hover {
+    background: white;
+    color: black;
+}
+.dropdown:hover .hiddencontent {
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(208, 202, 213);
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+li a:hover {
+    background: black;
+    color: azure;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="work.css">
+    </head>
+    <body>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Our Service</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">info</a></li>
+        </ul>
+    </body>
+</html>*/

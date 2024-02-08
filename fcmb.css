@@ -1,0 +1,244 @@
+.bill {
+    padding-left: 20px;
+    font-size: 30px;
+}
+#los {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.lol {
+    padding: 10px;
+    background: gold;
+    border: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.yaya {
+    padding-left: 160px;
+}
+.popo {
+    width: 20px;
+    height: 20px;
+}
+.lolo {
+    list-style-type: none;
+    font-size: small;
+    display: inline-block;
+    padding: 7px;
+}
+.ino {
+    color: purple;
+    text-decoration: none;
+    font-weight: 800;
+}
+.spaa {
+    background: purple;
+    width: 100%;
+    height: 40px;
+}
+.loo {
+    background: orange;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none    ;
+}
+.wego {
+    background:gold;
+    width: 300px;
+    height: 40px;
+    margin-left: 75px;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+}
+#na {
+    padding-top: 1px;
+    padding-left: 10px;
+}
+.dodo {
+    background: orange;
+    width: 2px; 
+    margin-top: 10px; 
+    margin-left: 100px;
+}
+.cla {
+    margin-top: 1px;
+}
+.cla {
+    margin-bottom: 1px;
+    padding-top: -10px;
+}
+.do {
+    padding-left: 15px;
+    width: 200px;
+}
+#goo {
+    color: red;
+    font-size: medium;
+    line-height: 1px;
+}
+#roroo {
+    font-size: medium;
+}
+.sap {
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.aria {
+    background: white;
+    padding: 10px;
+    width: fit-content;
+    padding-bottom: px;
+    margin-left: 0.1px;
+}
+.re {
+    background-image: url(flexxgradient.png);
+    padding: 4px;
+    width: fit-content;
+    padding-bottom: px;
+    margin-left: 100px;
+    
+}
+.lolo {
+    padding: 10px;
+    background: orange;
+    border-color: black;
+}
+.lin {
+    text-decoration: none;
+}
+.coco {
+    color: orange;
+}
+.co {
+    color: white;
+    margin-top: -17px;
+    margin-bottom: -5px;
+}
+.colos {
+    width: fit-content;
+    padding-left: -10px;
+}
+#cll {
+    margin-top: px;
+    font-size: 20px;
+    color: white;
+}
+.cc {
+    width: 300px;
+    height: 310px;
+}
+.deplay {
+    padding-left: 10px;
+}
+.peo {
+    background: whitesmoke;
+    width: fit-content;
+    padding: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+}
+.soso {
+    display: flex;
+    flex-direction: row;
+}
+.deji {
+    width: 50px;
+    height: 50px;
+}
+.log {
+    width: 50px;
+    height: 50px;
+    padding-left: 40px;
+}
+.lolo {
+    list-style-type: none ;
+    display: inline-block;
+    background: white;
+    border: none;
+    padding: 1px;
+    font-size: 14px;
+   
+    margin-bottom: -15px;
+}
+.rolle {
+    padding-left: 400px;
+    
+}
+.spo {
+   width: 250px;
+   height: 25px;
+   margin-top: -10px;
+}
+.dododo {
+    background: orange; 
+    width: 130px;   
+}
+.baba {
+    width: fit-content;
+    margin-top: 20px;
+   
+}
+.doro {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 345px;
+    border: 1px solid black;
+    width: fit-content;
+    margin-top: 10px;
+
+}
+#idowu {
+    margin-top: 20px;
+}
+.baba {
+    margin-top: 20px;
+    
+}
+.ccc {
+   font-size: 30px;
+   padding-left: 85px;
+}
+.mouse {
+    font-size: 30px;
+   padding-left: 85px;
+}
+.fool {
+    padding-left: 90px;
+    font-size: 20px;
+}
+.full {
+    padding-top: 30px;
+    
+}
+.dolo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 660px;
+    align-items: center;
+}
+#solo {
+    padding-left: 10px;
+    
+}
+.fufu {
+    text-decoration: none;
+}
+.xox {
+    font-size: 13px;
+    cursor: wait;
+}
+.di {
+    background: rgb(55, 51, 51);
+    height: 50px;
+    padding-top: 1px;
+}
+#me {
+    text-align: center;
+    justify-content: center;
+    color: white;
+}

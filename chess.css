@@ -1,0 +1,148 @@
+table {
+    border-style: ridge;
+    border-width: 20px;
+    border-color: rgb(255, 199, 23);
+}
+.hm {
+    list-style-type: none;
+    font-size: small;
+    display: inline-block;
+    padding: 7px;
+}
+.ino {
+    color: red;
+    text-decoration: none;
+    font-weight: 800;
+}
+
+
+
+.one :nth-child(even) {
+    background: whitesmoke;
+    box-shadow: 0px 0px 9px inset black;
+}
+.two :nth-child(odd) {
+    background: whitesmoke;
+    box-shadow: 0px 0px 9px inset black;
+}
+.three :nth-child(even) {
+    background: whitesmoke;
+    box-shadow: 0px 0px 10px inset black;
+}
+.four :nth-child(odd) {
+    background: whitesmoke;
+    box-shadow: 0px 0px 10px inset black;
+}
+.five :nth-child(even) {
+    background: whitesmoke;
+    box-shadow: 0px 0px 10px inset black;
+}
+.six :nth-child(odd) {
+    background: whitesmoke;
+    box-shadow: 0px 0px 10px inset black;
+}
+.seven :nth-child(even) {
+    background: whitesmoke;
+    box-shadow: 0px 0px 10px inset black;
+}
+.eight :nth-child(odd) {
+    background: whitesmoke;
+    box-shadow: 0px 0px 10px inset black;
+}
+.nine :nth-child(even) {
+    background: whitesmoke;
+    box-shadow: 0px 0px 10px inset black;
+}
+.ten :nth-child(odd) {
+    background: whitesmoke;
+    box-shadow: 0px 0px 10px inset black;
+}
+
+
+
+
+
+.one :nth-child(odd) {
+    background: black;
+    box-shadow: 0px 0px 10px inset black;
+}
+.two :nth-child(even) {
+    background: black;
+    box-shadow: 0px 0px 10px inset black;
+}
+.three :nth-child(odd) {
+    background: black;
+    box-shadow: 0px 0px 10px inset black;
+}
+.four :nth-child(even) {
+    background: black;
+    box-shadow: 0px 0px 10px inset black;
+}
+.five :nth-child(odd) {
+    background: black;
+    box-shadow: 0px 0px 10px inset black;
+}
+.six :nth-child(even) {
+    background: black;
+    box-shadow: 0px 0px 10px inset black;
+}
+.seven :nth-child(odd) {
+    background: black;
+    box-shadow: 0px 0px 10px inset black;
+}
+.eight :nth-child(even) {
+    background: black;
+    box-shadow: 0px 0px 10px inset black;
+}
+.nine :nth-child(odd) {
+    background: black;
+    box-shadow: 0px 0px 10px inset black;
+}
+.ten :nth-child(even) {
+    background: black;
+    box-shadow: 0px 0px 10px inset black;
+}
+
+
+
+
+.one :nth-child(1) {
+    background: red;
+    box-shadow: 0px 0px 10px inset black;
+}
+.two :nth-child(2) {
+    background: red;
+    box-shadow: 0px 0px 10px inset black;
+}
+.three :nth-child(3) {
+    background: red;
+    box-shadow: 0px 0px 10px inset black;
+}
+.four :nth-child(4) {
+    background: red;
+    box-shadow: 0px 0px 10px inset black;
+}
+.five :nth-child(5) {
+    background: red;
+    box-shadow: 0px 0px 10px inset black;
+}
+.six :nth-child(6) {
+    background: red;
+    box-shadow: 0px 0px 10px inset black;
+}
+.seven :nth-child(7) {
+    background: red;
+    box-shadow: 0px 0px 10px inset black;
+}
+.eight :nth-child(8) {
+    background: red;
+    box-shadow: 0px 0px 10px inset black;
+}
+.nine :nth-child(9) {
+    background: red;
+    box-shadow: 0px 0px 10px inset black;
+}
+.ten :nth-child(10) {
+    background: red;
+    box-shadow: 0px 0px 9px inset black;
+}

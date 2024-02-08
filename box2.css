@@ -1,0 +1,21 @@
+ul {
+    border: 20px;
+    
+    background-color: yellow;
+    
+    margin-left: 450px;
+    margin-right: 450px;
+
+    padding-top: 75px;
+    padding-bottom: 75px;
+
+    border-width: 5px;
+    border-color: black;
+    border-style: ridge;
+    
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    
+}

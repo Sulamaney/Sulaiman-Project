@@ -1,0 +1,109 @@
+        
+            .navbar a {
+                float: left;
+                font-size: 16px;
+                color: white;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+        
+            .dropdown {
+                float: left;
+                overflow: hidden;
+            }
+            
+        
+            .dropdown .btn {
+                font-size: 16px;  
+                border: none;
+                outline: none;
+                color: white;
+                padding: 14px 16px;
+                background-color: inherit;
+                font-family: inherit;
+                margin: 0;
+            }
+        
+            .navbar a:hover, .dropdown:hover .btn {
+                background-color: gray;
+            }
+        
+            .dropdown-menu {
+                display: none;
+                position: absolute;
+                background-color: #f9f9f9;
+                min-width: 160px;
+                box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+                z-index: 1;
+        
+                }
+        
+            .dropdown-menu a {
+                float: none;
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+                text-align: left;
+            }
+        
+            .dropdown-menu a:hover {
+                background-color: #ddd;
+            }
+        
+            .dropdown:hover .dropdown-menu {
+                display: block;
+            }
+
+.fooldiv {
+    background: blue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hm {
+    list-style-type: none;
+    font-size: small;
+    display: inline-block;
+    padding: 7px;
+}
+.ino {
+    color: white;
+    text-decoration: none;
+    font-weight: 800;
+}
+
+.yansh {
+    
+    background: rgb(95, 223, 216);
+    color: white;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}   
+
+.mumu {
+    
+    color: rgb(205, 198, 198);
+    font-size: small;
+    font-weight: 900;
+    margin-right: 40px;
+}
+.okna {
+    
+}
+.huh {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    margin-left: 20px;
+    padding-top: 20px;
+    
+}
+
