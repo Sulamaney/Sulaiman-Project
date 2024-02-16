@@ -1,9 +1,20 @@
+.hm {
+    list-style-type: none;
+    font-size: small;
+    display: inline-block;
+    padding: 7px;
+}
+.ino {
+    color: white;
+    text-decoration: none;
+    font-weight: 800;
+}
 body {
     background-image: url(sky.avif);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: 700px;
     background-position: center;
-    padding: 30px;
+    padding: 50px;
     
 }
 form {

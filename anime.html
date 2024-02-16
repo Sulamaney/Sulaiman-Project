@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Anime</title>
+        <style>
+            @keyframes sula {
+                from {
+                    margin-left: 0px;
+                }
+                to {
+                    margin-left: 400px;
+                }
+            }
+
+            @keyframes sulamaney {
+                0% {
+                    margin-top: 0px;
+                    margin-left: 400px;
+                }
+                100% {
+                    margin-top: 300px;
+                    margin-left: 400px;
+                }
+            }
+            
+            #first {
+                width: fit-content;
+                font-size: 30px;
+                padding: 0px;
+                margin: 0px;
+                background: red;
+
+                animation-duration: 2s;
+                animation-name: sula;
+                animation-iteration-count: infinite;
+                animation-direction: alternate;
+                animation-timing-function: ease-in-out;
+            }
+            #second {
+                width: fit-content;
+                font-size: 30px;
+                padding: 0px;
+                margin: 0px;
+                background: red;
+
+                animation-duration: 2s;
+                animation-name: sulamaney;
+                animation-iteration-count: infinite;
+                animation-direction: alternate-reverse;
+                animation-timing-function: ease-in-out;
+            }
+        </style>
+    </head>
+    <body>
+        <p id="first">
+            ⚽
+        </p>
+        <p id="second">
+            ⚽
+        </p>
+    </body>
+</html>
